@@ -1,8 +1,8 @@
 {
 //အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ နံပါတ်ကို ယခင်ထက် ပိုကြီးစေရန် ပြောင်းလဲရပါမည်
-"Version":"2.83",
+"Version":"2.84",
 //ဆာဗာ အပ်ဒိတ်အတွက် လင့်ခ်
-"Url":"https://github.com/Thetnaingoo12/freeinternet/raw/main/MONSTARV1.zip" ,
+"Url":"https://github.com/Thetnaingoo12/freeinternet/raw/main/MONSTER1.zip" ,
 "Changelog":"
 Welcome To Monster VPN APP
  
@@ -18,11 +18,7 @@ TRUE & DTAC နှစ်မျိုးစလုံးအသုံးပြု�
 
  GAME#####
 
-4.PUBG|MOBILE LEGENDS
-
-Free server များသည် လူအများသုူံနိုင်ပြီး
-VIP SERVER များသည် Menberဝင်များသာ
-အသုံးပြုနိုင်မည် Thank All User###
+4.PUBG|ML And Other///
 ",
 //အောက်မှာ မရှုပ်ပါနဲ့။
 "latestVersion": "1.0.0",
