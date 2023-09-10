@@ -11,15 +11,50 @@
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-002.ovpn"
       },
 
-{
-         "name": "TH-Dtac-Dtac003",
+      {
+         "name": "TH-Dtac-003",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-003.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-004",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-004.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-005",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-005.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-006",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-006.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-007",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-007.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-008",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-008.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-009",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-009.ovpn"
+      },
+
+{
+         "name": "TH-Dtac-010",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-010.ovpn"
       }
 
 
    ],
 "message":"🚀 Config version - 1 
-\n📆 Latest update - 07/11/2022
+\n📆 Latest update - 10/9/2023
 \n \n📌VIP account 🇹🇭 & 🇸🇬 
 \n• 1 month - 50 baht 💰 
 \n• Data transfer - Unlimited✅ 
@@ -27,5 +62,5 @@
 \n• 1 Device - 1 account🔒 
 \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 4
+   "version": 4.1
 }
