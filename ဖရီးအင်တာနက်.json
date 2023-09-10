@@ -1,30 +1,31 @@
 {
-//အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ နံပါတ်ကို ယခင်ထက် ပိုကြီးစေရန် ပြောင်းလဲရပါမည်
-"Version":"2.84",
-//ဆာဗာ အပ်ဒိတ်အတွက် လင့်ခ်
-"Url":"https://github.com/Thetnaingoo12/freeinternet/raw/main/MONSTER1.zip" ,
-"Changelog":"
-Welcome To Monster VPN APP
- 
-TRUE & DTAC နှစ်မျိုးစလုံးအသုံးပြုနိုင်ပါတယ်ဗျ
- 
-အသုံးပြုနိုင်သောအရာများ
-====================
-1.Facebook
+   "files": [  
 
-2.Youtube
+{
+         "name": "TH-Dtac",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-001.ovpn"
+      },
 
-3.Tiktok And Other Socal Media
+{
+         "name": "TH-True",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-002.ovpn"
+      },
 
- GAME#####
+{
+         "name": "TH-Ais",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-003.ovpn"
+      }
 
-4.PUBG|ML And Other///
-",
-//အောက်မှာ မရှုပ်ပါနဲ့။
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
-  "-Demo"
-    ]
+
+   ],
+"message":"🚀 Config version - 1.01 
+\n📆 Latest update - 07/11/2022
+\n \n📌VIP account 🇹🇭 & 🇸🇬 
+\n• 1 month - 50 baht 💰 
+\n• Data transfer - Unlimited✅ 
+\n• Unlimited time - Yes💯 
+\n• 1 Device - 1 account🔒 
+\nThank you for support us💙",
+   "title":"Do you want to update?",
+   "version": 1
 }
