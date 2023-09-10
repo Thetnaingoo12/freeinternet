@@ -1,86 +1,86 @@
 {
-   "ไฟล์": [  
+   "files": [  
 
 {
-         "ชื่อ": "TH-Dtac-001",
+         "name": "TH-Dtac-001",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-001.ovpn"
       },
 
 {
-         "ชื่อ": "TH-Dtac-002",
+         "name": "TH-Dtac-002",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-002.ovpn"
       },
 
 {
-         "ชื่อ": "TH-Dtac-003",
+         "name": "TH-Dtac-003",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-003.ovpn"
       },
 
 {
-   "ชื่อ": "TH-Dtac-004",
+   "name": "TH-Dtac-004",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-004.ovpn"
       },
 
       {
-   "ชื่อ": "TH-Dtac-005",
+   "name": "TH-Dtac-005",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-005.ovpn"
       },
 
 
       {
-   "ชื่อ": "TH-Dtac-006",
+   "name": "TH-Dtac-006",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-006.ovpn"
       },
 
 
       {
-   "ชื่อ": "TH-Dtac-007",
+   "name": "TH-Dtac-007",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-007.ovpn"
       },
 
 
       {
-   "ชื่อ": "TH-Dtac-008",
+   "name": "TH-Dtac-008",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-008.ovpn"
       },
 
       {
-   "ชื่อ": "TH-Dtac-009",
+   "name": "TH-Dtac-009",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-009.ovpn"
       },
 
       {
-   "ชื่อ": "TH-Dtac-010",
+   "name": "TH-Dtac-010",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-010.ovpn"
       },
 
       {
-   "ชื่อ": "TH-True-001",
+   "name": "TH-True-001",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-1.ovpn"
       },
 
    {
-   "ชื่อ": "TH-True-002",
+   "name": "TH-True-002",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-2.ovpn"
 },
 
 {
-   "ชื่อ": "TH-True-003",
+   "name": "TH-True-003",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-3.ovpn"
 
 },
 
 {
-   "ชื่อ": "TH-True-004",
+   "name": "TH-True-004",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-4.ovpn"
 
 },
 
 {
-   "ชื่อ": "TH-True-005",
+   "name": "TH-True-005",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-5.ovpn"
 
-},
+}
 
       
 
@@ -88,14 +88,14 @@
 
 
    ],
-"message": "🚀 กำหนดค่าเวอร์ชัน - 3
-\n📆 อัปเดตล่าสุด - 10/9/2023
-\n \n📌บัญชีวีไอพี 🇹🇭 & 🇲🇮
-\n• 1 เดือน - 50 บาท 💰
-\n• ถ่ายโอนข้อมูล - ไม่จำกัด✅
-\n• ไม่จำกัดเวลา - ใช่💯
-\n• 1 อุปกรณ์ - 1 บัญชี🔒
-\nขอบคุณที่สนับสนุนพวกเรา💙",
-   "title": ยินดีต้อนรับสู่ Monster Vpn ",
-   "เวอร์ชั่น": 3
+"message":"🚀 Config version - 1
+\n📆 Latest update - 07/11/2022
+\n \n📌VIP account 🇹🇭 & 🇸🇬 
+\n• 1 month - 50 baht 💰 
+\n• Data transfer - Unlimited✅ 
+\n• Unlimited time - Yes💯 
+\n• 1 Device - 1 account🔒 
+\nThank you for support us💙",
+   "title":"Welcome To Monster Vpn ",
+   "version": 1.1
 }
