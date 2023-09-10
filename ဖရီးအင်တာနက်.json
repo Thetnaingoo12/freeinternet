@@ -12,83 +12,13 @@
       },
 
 {
-         "name": "TH-Dtac-003",
+         "name": "TH-Dtac-Dtac003",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-003.ovpn"
-      },
-
-{
-   "name": "TH-Dtac-004",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-004.ovpn"
-      },
-
-      {
-   "name": "TH-Dtac-005",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-005.ovpn"
-      },
-
-
-      {
-   "name": "TH-Dtac-006",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-006.ovpn"
-      },
-
-
-      {
-   "name": "TH-Dtac-007",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-007.ovpn"
-      },
-
-
-      {
-   "name": "TH-Dtac-008",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-008.ovpn"
-      },
-
-      {
-   "name": "TH-Dtac-009",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-009.ovpn"
-      },
-
-      {
-   "name": "TH-Dtac-010",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-010.ovpn"
-      },
-
-      {
-   "name": "TH-True-001",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-1.ovpn"
-      },
-
-   {
-   "name": "TH-True-002",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-2.ovpn"
-},
-
-{
-   "name": "TH-True-003",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-3.ovpn"
-
-},
-
-{
-   "name": "TH-True-004",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-4.ovpn"
-
-},
-
-{
-   "name": "TH-True-005",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-5.ovpn"
-
-}
-
-      
-
-
+      }
 
 
    ],
-"message":"🚀 Config version - 1
+"message":"🚀 Config version - 1 
 \n📆 Latest update - 07/11/2022
 \n \n📌VIP account 🇹🇭 & 🇸🇬 
 \n• 1 month - 50 baht 💰 
@@ -96,6 +26,6 @@
 \n• Unlimited time - Yes💯 
 \n• 1 Device - 1 account🔒 
 \nThank you for support us💙",
-   "title":"Welcome To Monster Vpn ",
-   "version": 3.1
+   "title":"Do you want to update?",
+   "version": 4
 }
