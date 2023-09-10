@@ -49,6 +49,31 @@
 {
          "name": "TH-Dtac-010",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-010.ovpn"
+      },
+
+      {
+         "name": "TH-True-001",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-1.ovpn"
+      },
+
+      {
+         "name": "TH-True-002",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-2.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-003",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-3.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-005",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-4.ovpn"
+      },
+
+      {
+         "name": "TH-Dtac-002",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_TRUE-5.ovpn"
       }
 
 
