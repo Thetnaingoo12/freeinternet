@@ -2,27 +2,27 @@
    "files": [  
       
 {
-         "name": "TH_DTAC-TRUE-01",
+         "name": "TH-VIP-1",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-1.ovpn"
       },
 
 {
-         "name": "TH_DTAC-TRUE-02",
+         "name": "TH-VIP-2",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-2.ovpn"
       },
 
       {
-         "name": "TH_DTAC-TRUE-03",
+         "name": "TH-VIP-3",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-3.ovpn"
       },
 
       {
-         "name": "TH_DTAC-TRUE-04",
+         "name": "TH-VIP-4",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-4.ovpn"
       },
 
       {
-         "name": "TH_DTAC-TRUE-05",
+         "name": "TH-VIP-5",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-5.ovpn"
       }
 
