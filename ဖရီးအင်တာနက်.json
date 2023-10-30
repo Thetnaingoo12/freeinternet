@@ -2,7 +2,7 @@
    "files": [  
         
 {
-         "name": "DTAC-VIP-TH-1",
+         "name": "TH-DTAC-VIP-1",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-1.ovpn"
       },
 
@@ -13,16 +13,7 @@
 {
          "name": "TH-DTAC-VIP-3",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-3.ovpn"
-      },
-
- {
-         "name": "TH-TRUE-VIP-4",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-4.ovpn"
-      },
-
- {
-         "name": "TH-TRUE-VIP-5",
-         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/VIP_DTAC-5.ovpn"
+      
       }
 
       
