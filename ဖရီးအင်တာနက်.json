@@ -14,8 +14,13 @@
          "name": "TH-DTAC-VIP-3",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/monstervpn.ovpn"
       
-      }
-
+      },
+      
+{
+         "name": "SG-DTAC-ADMIN",
+         "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/monstervpn.ovpn"
+      
+}
       
          
 
