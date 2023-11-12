@@ -1,24 +1,24 @@
 {
    "files": [  
-        
+
 {
-         "name":"TH-DTAC-VIP0 ",
+         "name": "TH-DTAC-VIP",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/monstervpn.ovpn"
       },
-      
+
+
 {
-         "name": "SG-DTAC-ADMIN ",
+         "name": "SG-DTAC-1",
          "url": "https://raw.githubusercontent.com/Thetnaingoo12/freeinternet/main/SG_DTAC-TRUE.ovpn"
-      
-}
-      
-         
+      }
+
 
    ],
-"message":" 📃 Config version - 2
-\n• ♻ Latest Update - 2/11/2023
-\n• ♻ DTAC-USE WITH [90] DAY PACKAGE   
-\n• ♻ OWNER-Thet Naing Oo ,
-   "title":"⚡ New Version Update ⚡",
+"message":" 📃 Config version - 2 
+\n• ♻ Latest Update - 2/11/2023 
+\n• 1 month - 50 baht  
+\n• ♻ DTAC-USE WITH [90] DAY PACKAGE 
+\n• ♻ OWNER-Thet Naing Oo",
+   "title":"Do you want to update?",
    "version": 10
 }
